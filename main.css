@@ -1,0 +1,1 @@
+body{color:#999}*{box-sizing:border-box}.board{display:flex;flex-wrap:wrap;height:400px;width:400px}.cell{background-color:#999;border:2px solid #000;height:100px;width:100px}.goblin{background-image:url(2dbd01ce16c0fa83cb67e20c73dedb66.png);background-repeat:no-repeat;background-size:contain}
